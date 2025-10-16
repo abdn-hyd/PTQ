@@ -141,3 +141,6 @@ venv.bak/
 
 # vis_res
 vis_res/
+
+# igonore lazyvim config file
+~
