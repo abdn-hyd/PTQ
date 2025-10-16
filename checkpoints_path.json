@@ -1,0 +1,19 @@
+{
+  "Llama_3": {
+    "Llama_3.2_1B_Instruct": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Llama-3___2-1B-Instruct/",
+    "Llama_3.2_3B_Instruct": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Llama-3___2-3B-Instruct/",
+    "Llama_3_8B": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Meta-Llama-3-8B/",
+    "Llama_3_8B_Instruct": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Meta-Llama-3-8B-Instruct/",
+    "Llama_3.1_8B": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Meta-Llama-3.1-8B",
+    "Llama_3.1_8B_Instruct": "/Users/gunneo/.cache/modelscope/hub/models/LLM-Research/Meta-Llama-3___1-8B-Instruct/",
+  },
+  "OPT": {
+
+  },
+  "GPT": {
+
+  },
+  "GLM": {
+
+  },
+}

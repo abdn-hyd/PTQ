@@ -1,0 +1,6 @@
+[submodule "smoothquant"]
+	path = smoothquant
+	url = https://github.com/mit-han-lab/smoothquant.git
+[submodule "torch-int/submodules/cutlass"]
+	path = torch-int/submodules/cutlass
+	url = https://github.com/NVIDIA/cutlass.git
